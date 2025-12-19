@@ -87,7 +87,7 @@ Kun mä kuolen virtsarakkoni sä saat.
 Sillä rinnat taivahaiset eivät riipu niinkuin maiset.
 Kun mä kuolen rintaliivini sä saat.
 
-...Kun mä kuolen varmuusesineeni saat...
+...varmuusesineeni saat...
 Sillä taivaassa ei panna, koska enkelit ei anna.
 Kun mä kuolen varmuusesineeni saat.
 
@@ -111,7 +111,7 @@ Kun mä kuolen hiihtohousuni sä saat.
 Treenaan harpun soittamista - kiusa siinä rukkasista.
 Kun mä kuolen hiihtorukkaseni saat.
 
-...banjoni sä saat...
+...vanhan banjoni sä saat...
 Jos sä ostat mulle arkun, ett' saan taivaass' uuden harpun.
 Kun mä kuolen vanhan banjoni sä saat.
 
