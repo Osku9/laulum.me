@@ -21,3 +21,8 @@ Rati riti ralla, huomenna on darra.
 Tänään saadaan nautiskella,
 juoda, sekä lauleskella.
 Rati riti ralla, eeppinen on darra.
+
+Muista juoda vettä, ettei tule darra.
+Olon saa se kamalaksi, 
+oksennetaan aamuun asti.
+Siitä seuraa että, muista juoda vettä.
