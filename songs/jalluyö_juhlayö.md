@@ -27,7 +27,7 @@ Olkoon juopumus suur!
 
 Klusseyö, Kimmoyö!
 Päättynyt kaikk' on työ.
-Kaks vain jäljellä on Kimmoilijaa
+Kaks vain jäljell' on Kimmoilijaa
 Fuksin herttaisen sammuessa
 Kimmopöydässä,
 Kimmopöydässä.
